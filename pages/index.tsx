@@ -15,7 +15,7 @@ export default function Home() {
             className="w-24 h-24 rounded-full mx-auto mb-4"
           />
           <h2 className="text-xl font-bold mb-2">Brandon Sorgdrager</h2>
-          <p className="text-sm">AI developer and systems engineer</p>
+          <p className="text-sm">AI developer | systems engineer</p>
         </div>
       </div>
     </main>
