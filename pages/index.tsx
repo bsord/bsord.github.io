@@ -35,9 +35,6 @@ export default function Home({ projects }: any) {
             <FaArrowDown />
           </div>
         </Parallax>
-
-        
-        
       </div>
 
       <div ref={aboutRef} className="h-screen flex items-center justify-center bg-fixed bg-gradient-to-t from-blue-600 to-green-600  overflow-hiddenp-4  overflow-hidden">
@@ -60,12 +57,10 @@ export default function Home({ projects }: any) {
         </Parallax>
       </div>
 
-      <div className="h-screen flex items-center justify-center bg-gradient-to-b from-green-500 via-blue-500 to-yellow-500 overflow-hidden p-4">
+      <div className="h-screen flex items-center justify-center bg-zinc-900  overflow-hidden p-4">
         <Parallax speed={-25} >
-          <div className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
-            <h2 className="flex">Recommendations</h2> 
-            <div className="bg-gray-400">another test</div>
-          </div>
+          <h2 className="text-4xl md:text-6xl tracking-tight"><span className="">Endorsements </span></h2>
+          <div className="">Coming soon</div>
         </Parallax>
       </div>
 
