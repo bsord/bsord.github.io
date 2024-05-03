@@ -8,6 +8,7 @@ import Hero from "@/components/Hero";
 import HighlightedProjects from "@/components/HighlightedProjects";
 
 import data from "@/data/database.json";
+import About from "@/components/About";
 
 export default function Home({ projects }: any) {
   const aboutRef = useRef<HTMLDivElement>(null);
@@ -31,22 +32,21 @@ export default function Home({ projects }: any) {
         />
       </Head>
       
-      <div className="h-screen flex flex-col items-center justify-center bg-zinc-900 overflow-hidden ">
+      <div className="h-svh flex flex-col items-center justify-center bg-zinc-900 overflow-hidden ">
         <Parallax speed={-25} className="flex flex-col items-center justify-between h-full">
           <div className="flex flex-grow">
             <Hero />
           </div>
           
-          <div onClick={executeScroll} className="p-2 border-2 rounded-full mb-4">
+          <div className="p-2 border-2 rounded-full mb-4">
             <FaArrowDown />
           </div>
         </Parallax>
       </div>
 
-      <div ref={aboutRef} className="h-screen flex items-center justify-center bg-fixed bg-gradient-to-t from-blue-600 to-green-600  overflow-hiddenp-4  overflow-hidden">
-        <Parallax speed={-25} >
-          <h2 className="text-4xl md:text-6xl tracking-tight"><span className="">About </span><span className="text-blue-200 font-semibold ">Me</span></h2>
-          <div className="">Coming soon</div>
+      <div ref={aboutRef} className="flex items-center justify-center bg-fixed bg-gradient-to-t from-blue-600 to-green-600  overflow-hiddenp-4  overflow-hidden">
+        <Parallax speed={25} >
+          <About/>
         </Parallax>
       </div>
 
