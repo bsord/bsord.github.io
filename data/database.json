@@ -1,14 +1,108 @@
 {
     "projects": [
         {
-            "slug": "test-title",
-            "title": "test title",
-            "description": "test description"
+            "highlight": true,
+            "title": "Product Idea generator",
+            "description": "test description",
+            "url": "https://f5.news",
+            "coverImage": "https://placehold.co/600x400",
+            "technologies": [
+                "React",
+                "NodeJS",
+                "MongoDB",
+                "Serverless"
+            ]
         },
         {
-            "slug": "test-title-2",
-            "title": "test title 2",
-            "description": "test description 2"
+            "highlight": true,
+            "title": "Digital Product Creator",
+            "description": "test description",
+            "url": "https://f5.news",
+            "coverImage": "https://placehold.co/600x400",
+            "technologies": [
+                "React",
+                "NodeJS",
+                "MongoDB",
+                "Serverless"
+            ]
+        },
+        {
+            "highlight": true,
+            "title": "Cohesion",
+            "description": "test description",
+            "url": "https://f5.news",
+            "coverImage": "https://placehold.co/600x400",
+            "technologies": [
+                "React",
+                "NodeJS",
+                "MongoDB",
+                "Serverless"
+            ]
+        },
+        {
+            "highlight": true,
+            "title": "Cribs.AI",
+            "description": "test description",
+            "url": "https://f5.news",
+            "coverImage": "https://placehold.co/600x400",
+            "technologies": [
+                "React",
+                "NodeJS",
+                "MongoDB",
+                "Serverless"
+            ]
+        },
+        {
+            "highlight": true,
+            "title": "Synth",
+            "description": "test description",
+            "url": "https://f5.news",
+            "coverImage": "https://placehold.co/600x400",
+            "technologies": [
+                "React",
+                "NodeJS",
+                "MongoDB",
+                "Serverless"
+            ]
+        },
+        {
+            "highlight": true,
+            "title": "Content Awesome",
+            "description": "test description",
+            "url": "https://f5.news",
+            "coverImage": "https://placehold.co/600x400",
+            "technologies": [
+                "React",
+                "NodeJS",
+                "MongoDB",
+                "Serverless"
+            ]
+        },
+        {
+            "highlight": true,
+            "title": "Interactive AI",
+            "description": "test description",
+            "url": "https://f5.news",
+            "coverImage": "https://placehold.co/600x400",
+            "technologies": [
+                "React",
+                "NodeJS",
+                "MongoDB",
+                "Serverless"
+            ]
+        },
+        {
+            "highlight": true,
+            "title": "F5 News",
+            "description": "test description",
+            "url": "https://f5.news",
+            "coverImage": "https://placehold.co/600x400",
+            "technologies": [
+                "React",
+                "NodeJS",
+                "MongoDB",
+                "Serverless"
+            ]
         }
     ]
 }
