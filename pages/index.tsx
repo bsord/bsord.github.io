@@ -23,9 +23,15 @@ export default function Home({ projects }: any) {
       <Head>
         <title>Brandon Sorgdrager</title>
         <meta name="description" content="AI Solutions Engineer" />
+        <meta name="apple-mobile-web-app-capable" content="yes"></meta>
+        <meta name="mobile-web-app-capable" content="yes"></meta>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content"
+        />
       </Head>
       
-      <div className="h-screen flex flex-col items-center justify-center bg-zinc-900 overflow-hidden">
+      <div className="h-screen flex flex-col items-center justify-center bg-zinc-900 overflow-hidden ">
         <Parallax speed={-25} className="flex flex-col items-center justify-between h-full">
           <div className="flex flex-grow">
             <Hero />
