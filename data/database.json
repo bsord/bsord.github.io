@@ -1,6 +1,7 @@
 {
     "projects": [
         {
+            "slug": "product-idea-generator",
             "highlight": true,
             "title": "Product Idea generator",
             "description": "test description",
@@ -14,6 +15,7 @@
             ]
         },
         {
+            "slug": "digital-product-creator",
             "highlight": true,
             "title": "Digital Product Creator",
             "description": "test description",
@@ -27,6 +29,7 @@
             ]
         },
         {
+            "slug": "cohesion-browser-extension",
             "highlight": true,
             "title": "Cohesion",
             "description": "test description",
@@ -40,6 +43,7 @@
             ]
         },
         {
+            "slug": "ai-interior-design",
             "highlight": true,
             "title": "Cribs.AI",
             "description": "test description",
@@ -53,6 +57,7 @@
             ]
         },
         {
+            "slug": "retreival-augmented-generation-app",
             "highlight": true,
             "title": "Synth",
             "description": "test description",
@@ -66,6 +71,7 @@
             ]
         },
         {
+            "slug": "authoritative-blog-generator",
             "highlight": true,
             "title": "Content Awesome",
             "description": "test description",
@@ -79,6 +85,7 @@
             ]
         },
         {
+            "slug": "interactive-ai",
             "highlight": true,
             "title": "Interactive AI",
             "description": "test description",
@@ -92,6 +99,7 @@
             ]
         },
         {
+            "slug": "trending-news-site",
             "highlight": true,
             "title": "F5 News",
             "description": "test description",
