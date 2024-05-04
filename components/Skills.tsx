@@ -294,6 +294,23 @@ export default function Skills() {
                             strokeLinecap="round"
                             strokeLinejoin="round"
                             strokeWidth={2}
+                            d="M13 10V3L4 14h7v7l9-11h-7z"
+                        />
+                        </svg>
+                        SQS
+                    </li>
+                    <li className="flex items-center">
+                        <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 mr-2"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        >
+                        <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
                             d="M8 17l4 4 4-4m-4-5V6"
                         />
                         </svg>
@@ -314,7 +331,58 @@ export default function Skills() {
                             d="M13 10V3L4 14h7v7l9-11h-7z"
                         />
                         </svg>
+                        Docker
+                    </li>
+                    <li className="flex items-center">
+                        <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 mr-2"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        >
+                        <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M13 10V3L4 14h7v7l9-11h-7z"
+                        />
+                        </svg>
                         Kubernetes
+                    </li>
+                    <li className="flex items-center">
+                        <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 mr-2"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        >
+                        <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M13 10V3L4 14h7v7l9-11h-7z"
+                        />
+                        </svg>
+                        Cloudflare
+                    </li>
+                    <li className="flex items-center">
+                        <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 mr-2"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        >
+                        <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M13 10V3L4 14h7v7l9-11h-7z"
+                        />
+                        </svg>
+                        CloudFront CDN
                     </li>
                     <li className="flex items-center">
                         <svg
@@ -555,6 +623,109 @@ export default function Skills() {
                         </svg>
                         Notion
                     </li>
+                    <li className="flex items-center">
+                        <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 mr-2"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        >
+                        <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M13 10V3L4 14h7v7l9-11h-7z"
+                        />
+                        </svg>
+                        AirTable
+                    </li>
+                    <li className="flex items-center">
+                        <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 mr-2"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        >
+                        <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M13 10V3L4 14h7v7l9-11h-7z"
+                        />
+                        </svg>
+                        Redis
+                    </li>
+                    <li className="flex items-center">
+                        <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 mr-2"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        >
+                        <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M13 10V3L4 14h7v7l9-11h-7z"
+                        />
+                        </svg>
+                        MongoDB
+                    </li>
+                    <li className="flex items-center">
+                        <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 mr-2"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        >
+                        <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M13 10V3L4 14h7v7l9-11h-7z"
+                        />
+                        </svg>
+                        Pinecone
+                    </li>
+                    <li className="flex items-center">
+                        <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 mr-2"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        >
+                        <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M13 10V3L4 14h7v7l9-11h-7z"
+                        />
+                        </svg>
+                        Chroma
+                    </li>
+                    <li className="flex items-center">
+                        <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 mr-2"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        >
+                        <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M13 10V3L4 14h7v7l9-11h-7z"
+                        />
+                        </svg>
+                        Postgres
+                    </li>
+                    
                     
                     
                 </ul>
