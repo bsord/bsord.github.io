@@ -22,14 +22,28 @@ export default function Home({ projects }: any) {
       className="flex min-h-screen flex-col"
     >
       <Head>
-        <title>Brandon Sorgdrager</title>
-        <meta name="description" content="AI Solutions Engineer" />
+        <title>Brandon Sorgdrager - AI Solutions Engineer</title>
+        <meta name="description" content="I transform problems and ideas into solutions." />
         <meta name="apple-mobile-web-app-capable" content="yes"></meta>
         <meta name="mobile-web-app-capable" content="yes"></meta>
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content"
         />
+
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://bsord.io/" />
+        <meta property="og:title" content="Brandon Sorgdrager - AI Solutions Engineer" />
+        <meta property="og:description" content="I transform problems and ideas into solutions." />
+        <meta property="og:image" content="https://bsord.io/avatar.png" />
+
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://bsord.io/" />
+        <meta property="twitter:title" content="Brandon Sorgdrager - AI Solutions Engineer" />
+        <meta property="twitter:description" content="I transform problems and ideas into solutions." />
+        <meta property="twitter:image" content="https://bsord.io/avatar.png" />
       </Head>
       
       <div className="h-svh flex flex-col items-center justify-center bg-zinc-900 overflow-hidden ">
